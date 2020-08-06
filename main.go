@@ -40,7 +40,7 @@ func init() {
 // @BasePath /
 func main() {
 	sql := &db.Sql{
-		Host:     "171.226.224.26", //localhost,host.docker.internal
+		Host:     "35.192.50.136", //localhost,host.docker.internal
 		Port:     5432,
 		UserName: "trung",
 		Password: "halo",
